@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.tms_anonl_17_lesson_19"
+    namespace = "com.example.tms_anonl_17_lesson_22"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.tms_anonl_17_lesson_19"
+        applicationId = "com.example.tms_anonl_17_lesson_22"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
@@ -25,6 +25,9 @@ android {
                 "proguard-rules.pro"
             )
         }
+    }
+    buildFeatures {
+        viewBinding = true
     }
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_1_8
