@@ -1,11 +1,12 @@
-package com.example.tms_anonl_17_lesson_22
+package com.example.tms_anonl_17_lesson_25
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import androidx.fragment.app.FragmentManager
-import com.example.tms_anonl_17_lesson_22.databinding.ActivityMainBinding
-import java.util.Date
+import androidx.appcompat.app.AppCompatActivity
+import com.example.tms_anonl_17_lesson_25.databinding.ActivityMainBinding
+import com.example.tms_anonl_17_lesson_25.list.NoteListFragment
+import dagger.hilt.android.AndroidEntryPoint
 
+@AndroidEntryPoint
 class MainActivity : AppCompatActivity() {
     private var binding: ActivityMainBinding? = null
 
