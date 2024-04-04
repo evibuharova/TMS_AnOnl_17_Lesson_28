@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "TMS_AnOnl_17_Lesson_25"
+rootProject.name = "TMS_AnOnl_17_Lesson_26"
 include(":app")
  

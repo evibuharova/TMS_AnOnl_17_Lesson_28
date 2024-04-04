@@ -11,7 +11,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:name=".TmsAnonlApplication"
-        android:theme="@style/Theme.TMS_AnOnl_17_Lesson_25"
+        android:theme="@style/Theme.TMS_AnOnl_17_Lesson_26"
         tools:targetApi="31">
         <activity
             android:name=".MainActivity"
