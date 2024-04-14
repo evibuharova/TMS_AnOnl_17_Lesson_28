@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "473259481965",
+    "project_id": "tms-anonl-17-lesson-28-67eaa",
+    "storage_bucket": "tms-anonl-17-lesson-28-67eaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473259481965:android:f5d680c12a3a6a3cb5d864",
+        "android_client_info": {
+          "package_name": "com.example.tms_anonl_17_lesson_28"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ_i87oig6EzZbnL8fojpmi6bvK1exn5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
